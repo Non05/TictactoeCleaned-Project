@@ -1,0 +1,8 @@
+# Build output
+build/
+
+# Python virtual environments
+.venv/
+
+# Local cache
+.cache/
